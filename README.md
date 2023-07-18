@@ -62,7 +62,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Walkthrough Video
 The following link shows a walkthrough video that demonstrates the functionality of the ecommerce-backend-ORM application
-* [Click here for walkthrough video](https://drive.google.com/file/d/1OQoAKJWNEH0oBjNfisj4eDyzpXkfZ77c/view)
+* [Click here for walkthrough video](https://app.screencastify.com/manage/videos/29X2ZqAXGxP1CVvWLhl7)
 <br>
 
 ## Screenshots
