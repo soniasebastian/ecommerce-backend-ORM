@@ -75,6 +75,16 @@ The following link shows a walkthrough video that demonstrates the functionality
 <br>
 
 ## Screenshots
+* In Insomnia get all products with 'GET' using http://localhost:3001/api/products
+  ![Screenshot 2023-07-18 134246](https://github.com/soniasebastian/ecommerce-backend-ORM/assets/130253087/96e2953e-969d-4c60-bf13-6f63947649d8)
+* In Insomnia get one product with id using http://localhost:3001/api/product/1
+  ![Screenshot 2023-07-18 134308](https://github.com/soniasebastian/ecommerce-backend-ORM/assets/130253087/7ec063cf-9666-4a40-a729-4bdaa53b6a76)
+* In Insomnia create one product with "POST" using http://localhost:3001/api/products
+  ![Screenshot 2023-07-18 134353](https://github.com/soniasebastian/ecommerce-backend-ORM/assets/130253087/0a541590-04a8-40ec-9a14-790ffbade0bc)
+* In Insomnia update one product with "PUT" using http://localhost:3001/api/products/6
+  ![Screenshot 2023-07-18 134530](https://github.com/soniasebastian/ecommerce-backend-ORM/assets/130253087/bd6718d6-9343-48d9-b1f9-4c3a9b338caf)
+* In Insomnia delet one product with "DELETE" using http://localhost:3001/api/products/6
+  ![Screenshot 2023-07-18 134547](https://github.com/soniasebastian/ecommerce-backend-ORM/assets/130253087/a5e297f2-c63d-405d-a034-41bc407441d2)
 
 
 ## Links
