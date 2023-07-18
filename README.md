@@ -78,7 +78,8 @@ The following link shows a walkthrough video that demonstrates the functionality
 
 
 ## Links
-The URL of the functional deployed application (https://soniasebastian.github.io/ecommerce-backend-ORM/)
+The URL of the github repository (https://github.com/soniasebastian/ecommerce-backend-ORM)
+
 
 ## Contribution:
    Contributions are most welcome such as bug fixes, feature enhancements, documentation improvements and code optimization.
