@@ -23,7 +23,7 @@ It utilises Express.js API which uses Sequelize to interact with a MySQL databas
 - [License](#License)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [WalkthroughVideo](#Walkthrough Video)
+- [WalkthroughVideo](#WalkthroughVideo)
 - [Screenshots](#Screenshots)
 - [Contribution](#Contribution)
 - [Test](#Test) 
@@ -70,7 +70,7 @@ THEN I am able to successfully create, update, and delete data in my database
 <br>
 
 
-## Walkthrough Video
+## WalkthroughVideo
 The following link shows a walkthrough video that demonstrates the functionality of the ecommerce-backend-ORM application
 * [Click here for walkthrough video](https://watch.screencastify.com/v/WFMpdxRVc9KQ8EqxPxwC)
 <br>
