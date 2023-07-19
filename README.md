@@ -23,7 +23,7 @@ It utilises Express.js API which uses Sequelize to interact with a MySQL databas
 - [License](#License)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Walkthroughvideo](#Walkthroughvideo)
+- [Walkthrough Video](#Walkthrough Video)
 - [Screenshots](#Screenshots)
 - [Contribution](#Contribution)
 - [Test](#Test) 
