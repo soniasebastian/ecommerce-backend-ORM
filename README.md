@@ -26,10 +26,11 @@ It utilises Express.js API which uses Sequelize to interact with a MySQL databas
 - [Walkthroughvideo](#Walkthroughvideo)
 - [Screenshots](#Screenshots)
 - [Contribution](#Contribution)
-- [Test](Test) 
+- [Test](#Test) 
 - [Questions](#Questions)
 
-  ## License 
+
+## License 
 This application is licensed under MIT License
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
